@@ -1,2 +1,2 @@
 # Ing.-sw.
-progett ing sw
+progetto ing sw

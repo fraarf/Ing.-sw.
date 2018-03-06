@@ -1,0 +1,19 @@
+CASI D’USO
+
+1.	Iscrizione di un nuovo cliente
+2.	Login
+3.	Decadenza automatica
+4.	Rinnovo iscrizione
+5.	Visualizzazione elenco fruitori
+6.	Aggiunta di una risorsa
+7.	Rimozione di una risorsa
+8.	Visualizzazione dell’elenco delle risorse
+9.	Richiesta prestito
+10.	Proroga di un prestito
+11.	Terminazione automatica del prestito
+12.	Ricerca di una risorsa
+13.	Visualizzazione della disponibilità o meno di una risorsa per il prestito
+14.	Visualizzazione numero di prestiti per anno solare
+15.	Visualizzazione numero di proroghe per anno solare
+16.	Visualizzazione risorsa più prestata per anno solare
+17.	Numero prestiti per fruitore per anno solare
